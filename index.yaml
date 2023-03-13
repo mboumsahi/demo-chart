@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  fs-dx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-13T14:52:47.654284+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 47f4f4e4510d1a18470f2bfc363df8c886e723d1812766253e03ed59783c65d7
+    icon: https://www.belastingdienst.nl/assets/bld/rhslogos/bld_logo.svg
+    name: fs-dx
+    type: application
+    urls:
+    - https://github.com/mboumsahi/demo-chart/fs-dx-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-13T14:52:47.653311+01:00"
